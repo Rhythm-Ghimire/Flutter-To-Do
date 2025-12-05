@@ -1,0 +1,16 @@
+Summary of What Each File Does:
+todo_screen.dart - Main screen showing tasks in 3 tabs with headers
+
+add_edit_dialog.dart - Dialog for adding new tasks or editing existing ones
+
+delete_dialog.dart - Confirmation dialog before deleting tasks
+
+status_dialog.dart - Confirmation dialog before changing task status
+
+search_screen.dart - Search functionality across all tasks
+
+todo_model.dart - Data model defining what a Todo task is
+
+db_helper.dart - Database operations (CRUD: Create, Read, Update, Delete)
+
+main.dart - App entry point and theme configuration
